@@ -1,5 +1,7 @@
 # Diffusion-Start
 
+[Русская версия](README.ru.md)
+
 Automated installer for **SD WebUI Forge Neo** + **ComfyUI** with all models needed for realistic character and video generation.
 
 ## What gets installed
@@ -137,6 +139,7 @@ Diffusion-start/
 │   ├── comfyui-videohelpersuite
 │   └── rgthree-comfy
 ├── README.md
+├── README.ru.md
 └── LICENSE
 ```
 
