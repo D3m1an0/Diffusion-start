@@ -136,5 +136,12 @@ Diffusion-start/
 │   ├── comfyui-manager
 │   ├── comfyui-videohelpersuite
 │   └── rgthree-comfy
-└── README.md
+├── README.md
+└── LICENSE
 ```
+
+---
+
+## License
+
+MIT — see [LICENSE](LICENSE).
