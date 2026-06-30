@@ -4,6 +4,22 @@
 
 Автоматический установщик **SD WebUI Forge Neo** + **ComfyUI** со всеми моделями, необходимыми для генерации реалистичных персонажей и видео.
 
+## Поддержать проект
+
+Если проект сэкономил вам время, можете поддержать донатом:
+
+| Валюта | Сеть | Адрес |
+|---|---|---|
+| USDT | TRC20 | `TJEDsnc6aPXnQ3EwtrhS19arsVFyDceHv4` |
+| USDT | TON | `UQCiJrJo3Y6pnCxeM-hwgDGy_NJ4jNSI0262wIJtrAhs5jyI` |
+| USDT | ERC20 | `0xAD3B89006E8bcc5189eA0039A4a9674A264bFb3F` |
+| BTC | Bitcoin | `bc1qeccdntw60mjduzw9tkv92zjkdjcerw4u9ep05v` |
+| ETH | Ethereum | `0xAD3B89006E8bcc5189eA0039A4a9674A264bFb3F` |
+| TRON | TRC20 | `TJEDsnc6aPXnQ3EwtrhS19arsVFyDceHv4` |
+| SOL | Solana | `J8kQqJn9aDrAvuonorNigrd3zquQ9iPL8apRDmiYnaRK` |
+
+---
+
 ## Что устанавливается
 
 ### SD WebUI Forge Neo
